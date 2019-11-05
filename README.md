@@ -3,7 +3,15 @@
 ## 数据库
 - RocksDB，facebook开源的嵌入式持久化KV数据库, https://github.com/facebook/rocksdb
 - LevelDB，google开源的KV数据库，https://github.com/google/leveldb
+- Distributed transactional key-value database, originally created to complement TiDB, https://github.com/tikv/tikv
+- TiDB is an open source distributed HTAP database compatible with the MySQL protocol, https://github.com/pingcap/tidb
 - VictoriaMetrics, 高性能时序数据库,可作Prometheus长久存储, https://github.com/VictoriaMetrics/VictoriaMetrics
+
+## 二进制格式
+- Go support for Google's protocol buffers, https://github.com/golang/protobuf
+- A native Thrift package for Go, https://github.com/samuel/go-thrift
+- Apache Avro, https://github.com/apache/avro
+- Generate Go code to serialize and deserialize Avro schemas, https://github.com/actgardner/gogen-avro
 
 ## RPC
 - The Go language implementation of gRPC. HTTP/2 based RPC, https://github.com/grpc/grpc-go
