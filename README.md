@@ -19,5 +19,13 @@
 - rpcx，A zero cost, faster multil-language bidirectional microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. https://github.com/smallnest/rpcx
 - Java implementation for Baidu RPC, multi-protocol & high performance RPC. https://github.com/baidu/brpc-java
 
+## HTTP
+
+- Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://github.com/gin-gonic/gin
+- Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http. https://github.com/valyala/fasthttp
+
 ## 即时通讯
 - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots. https://github.com/tinode/chat
+
+## DNS
+- fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers. https://github.com/looterz/grimd
